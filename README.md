@@ -66,8 +66,18 @@ I am a Mobile Application Developer <img src="https://media.giphy.com/media/WUlp
 </div>
 <br/>
 <br/>
-<div align="center">
+
+## GitHub Stats
+
+
+|                                                                     Bishal's Stats                                                                     |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ![Bishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=bishalbudhathoki&theme=react-dark&hide_border=true&area=true) |
+ ![Bishal's github stats](https://github-readme-stats.vercel.app/api?username=bishalbudhathoki&show_icons=true&theme=algolia)              | 
+| ![Bishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bishalbudhathoki&theme=algolia)                    | 
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishalbudhathoki&langs_count=8&theme=algolia&layout=compact)   |
+<!-- <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalbudhathoki&theme=blue-green&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
   
-</div>
+</div> -->
  
