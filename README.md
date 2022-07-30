@@ -48,15 +48,13 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif" width="600" height="300"/>
- 
 </div>
+<br/>
+<br/>
+<div>
+  <img align="left" src="https://github.com/BishalBudhathoki/Private/blob/main/IMG_5125.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 
- ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bishalbudhathoki&theme=blue-green)
-
-
-<img align="left" src="https://github.com/BishalBudhathoki/Private/blob/main/IMG_5125.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
-<hr>
-### :man_technologist: About Me :
+### About Me :
 I am a Mobile Application Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
 - :telescope: I’m working as a Mobile Application Developer at Geeks Australia.
 
@@ -65,3 +63,11 @@ I am a Mobile Application Developer <img src="https://media.giphy.com/media/WUlp
 - :zap: In my free time, I small projects or watch series.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BishalBudhathoki-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bishal-budhathoki-022/)
+</div>
+<br/>
+<br/>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishalbudhathoki&theme=blue-green&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Abdo Achhoubi Github Stats">
+  
+</div>
+ 
