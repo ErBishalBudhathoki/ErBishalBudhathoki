@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div id="badges" align="center">
 
   
-  <a href="https://linkedin.com/in/bishalbudhathoki">
+  <a href="https://linkedin.com/in/BishalBudhathoki">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/BishalBudhathoki?tab=repositories">
