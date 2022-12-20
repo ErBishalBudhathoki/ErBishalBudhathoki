@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 
 I am a Mobile Application Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nepal.
-- :telescope: I’m working as a Mobile Application Developer at Geeks Australia.
+- :telescope: I’m working as a Mobile Application Developer.
 
 - :seedling: Exploring various roles.
 
