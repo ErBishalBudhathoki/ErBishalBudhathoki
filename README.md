@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header](https://github.com/BishalBudhathoki/Private/blob/main/banner%20linkedIn.jfif)
-    
+![Header](https://user-images.githubusercontent.com/35174206/208630291-1a6dd287-af7a-4765-8fc3-6750caf5ebd9.png)
+
  
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
