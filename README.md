@@ -36,7 +36,7 @@ Here are some ideas to get you started:
    <a href="https://bishalkc331.wixsite.com/bishalbudhathoki">
     <img src="https://img.shields.io/badge/Wix-white?style=for-the-badge&logo=wix&logoColor=black" alt="Wix Badge"/>
   </a>
-   <a href="https://bishalbudhathoki.me">
+   <a href="https://bishalbudhathoki.tech">
     <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio Badge"/>
   </a>
    <a href="https://play.google.com/store/apps/developer?id=Er.Bishal+Budhathoki">
