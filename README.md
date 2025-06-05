@@ -9,6 +9,7 @@
 </h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bishalbudhathoki&style=flat-square&color=blue" alt=""/>
+  <img src="https://api.visitorbadge.io/api/visitors?path=bishalbudhathoki&label=Visitors&countColor=%2337d67a&style=flat"  alt=""/>
 </p>
 
 <!-- Socials -->
@@ -44,74 +45,30 @@
 
 ---
 
+### 🛠️ Currently Working On
+
+![Working on](https://img.shields.io/badge/Working%20on-portfolio--frontend-brightgreen?style=for-the-badge&logo=next.js&logoColor=white)
+![Learning](https://img.shields.io/badge/Learning-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)
+![Exploring](https://img.shields.io/badge/Exploring-AI%20%26%20DevOps-orange?style=for-the-badge&logo=ai&logoColor=white)
+
+---
+
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,ts,java,kotlin,flutter,dart,react,nextjs,nodejs,express,fastapi,mongodb,mysql,sqlite,firebase,gcp,heroku,vercel,nginx,netlify,postman,figma,jira,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,ts,java,kotlin,flutter,dart,react,nextjs,nodejs,express,fastapi,mongodb,mysql,sqlite,firebase,gcp,heroku,vercel,nginx,netlify,postman,figma,docker,git,github" />
 </p>
 
-### <div align="center">🧑‍💻 Programming Languages</div>
-<p align="center"><img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,kotlin,dart,cs" /></p>
+---
 
-### <div align="center">🌐 Frontend Development</div>
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,sass" /></p>
+## 🐍 GitHub Contribution Graph Snake
 
-### <div align="center">🧠 AI / Machine Learning</div>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,python" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
+![GitHub Contribution Snake](https://github.com/BishalBudhathoki/BishalBudhathoki/blob/output/github-contribution-grid-snake.svg)
 
-### <div align="center">📱 Mobile App Development</div>
-<p align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" /></p>
+### 📈 Contribution Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BishalBudhathoki&theme=github-compact)](https://github.com/BishalBudhathoki)
 
-### <div align="center">🖥️ Backend Development</div>
-<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python" /></p>
 
-### <div align="center">🛢️ Databases</div>
-<p align="center"><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" /></p>
-
-### <div align="center">🔧 DevOps & Tools</div>
-<p align="center"><img src="https://skillicons.dev/icons?i=docker,nginx,git,github,vscode,postman" /></p>
-
-### <div align="center">☁️ Backend as a Service (BaaS)</div>
-<p align="center"><img src="https://skillicons.dev/icons?i=firebase,gcp,vercel,heroku,netlify" /></p>
-
-### <div align="center">🧰 Frameworks</div>
-<p align="center">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
-
-### <div align="center">✅ Testing</div>
-<p align="center">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-### <div align="center">📊 Data Visualization</div>
-<p align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-9B59B6?style=for-the-badge"/>
-</p>
-
-### <div align="center">🛠️ Software & Productivity</div>
-<p align="center"><img src="https://skillicons.dev/icons?i=vscode,figma,jira" /></p>
-
-### <div align="center">🌐 Static Site Generators</div>
-<p align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></p>
-
-### <div align="center">🕹️ Game Engines</div>
-<p align="center"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/></p>
-
-### <div align="center">🧩 Other Tools</div>
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-</p>
 
 ---
 
@@ -144,8 +101,3 @@
 
 ---
 
-## ⚡ Latest Tweet
-
-<p align="center">
-  <img src="https://github-readme-twitter.gazf.vercel.app/api?id=Bis2vis&layout=wide" />
-</p>
