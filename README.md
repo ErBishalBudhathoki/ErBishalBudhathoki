@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **contact@bishalbudhathoki.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KwrQenriXayZag4hPT9H2d_Jzw605JvV/view?pli=1](https://drive.google.com/file/d/1KwrQenriXayZag4hPT9H2d_Jzw605JvV/view?pli=1)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KwrQenriXayZag4hPT9H2d_Jzw605JvV/view?pli=1)
 <!--   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/1/#inbox?compose=new) -->
 </div>
 <br/>
