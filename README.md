@@ -50,65 +50,65 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,ts,java,kotlin,flutter,dart,react,nextjs,nodejs,express,fastapi,mongodb,mysql,sqlite,firebase,gcp,heroku,vercel,nginx,netlify,postman,figma,jira,docker,git,github" />
 </p>
 
-### 🧑‍💻 Programming Languages
-<p><img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,kotlin,dart,cs" /></p>
+### <div align="center">🧑‍💻 Programming Languages</div>
+<p align="center"><img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,kotlin,dart,cs" /></p>
 
-### 🌐 Frontend Development
-<p><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,sass" /></p>
+### <div align="center">🌐 Frontend Development</div>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,sass" /></p>
 
-### 🧠 AI / Machine Learning
-<p>
+### <div align="center">🧠 AI / Machine Learning</div>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,python" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-### 📱 Mobile App Development
-<p><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" /></p>
+### <div align="center">📱 Mobile App Development</div>
+<p align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" /></p>
 
-### 🖥️ Backend Development
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python" /></p>
+### <div align="center">🖥️ Backend Development</div>
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python" /></p>
 
-### 🛢️ Databases
-<p><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" /></p>
+### <div align="center">🛢️ Databases</div>
+<p align="center"><img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres" /></p>
 
-### 🔧 DevOps & Tools
-<p><img src="https://skillicons.dev/icons?i=docker,nginx,git,github,vscode,postman" /></p>
+### <div align="center">🔧 DevOps & Tools</div>
+<p align="center"><img src="https://skillicons.dev/icons?i=docker,nginx,git,github,vscode,postman" /></p>
 
-### ☁️ Backend as a Service (BaaS)
-<p><img src="https://skillicons.dev/icons?i=firebase,gcp,vercel,heroku,netlify" /></p>
+### <div align="center">☁️ Backend as a Service (BaaS)</div>
+<p align="center"><img src="https://skillicons.dev/icons?i=firebase,gcp,vercel,heroku,netlify" /></p>
 
-### 🧰 Frameworks
-<p>
+### <div align="center">🧰 Frameworks</div>
+<p align="center">
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
-### ✅ Testing
-<p>
+### <div align="center">✅ Testing</div>
+<p align="center">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-### 📊 Data Visualization
-<p>
+### <div align="center">📊 Data Visualization</div>
+<p align="center">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-9B59B6?style=for-the-badge"/>
 </p>
 
-### 🛠️ Software & Productivity
-<p><img src="https://skillicons.dev/icons?i=vscode,figma,jira" /></p>
+### <div align="center">🛠️ Software & Productivity</div>
+<p align="center"><img src="https://skillicons.dev/icons?i=vscode,figma,jira" /></p>
 
-### 🌐 Static Site Generators
-<p><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></p>
+### <div align="center">🌐 Static Site Generators</div>
+<p align="center"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/></p>
 
-### 🕹️ Game Engines
-<p><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/></p>
+### <div align="center">🕹️ Game Engines</div>
+<p align="center"><img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/></p>
 
-### 🧩 Other Tools
-<p>
+### <div align="center">🧩 Other Tools</div>
+<p align="center">
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
 </p>
