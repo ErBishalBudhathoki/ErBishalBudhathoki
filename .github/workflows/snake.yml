@@ -2,10 +2,13 @@ name: Generate Snake Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every day at midnight
+    - cron: "0 0 * * *"
   push:
     branches: [main]
   workflow_dispatch:
+
+permissions:
+  contents: write          # required for pushing to the output branch
 
 jobs:
   build:
